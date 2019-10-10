@@ -10,7 +10,7 @@ html, body {
 	width: 100%;
 	height: 100%;
 	/* background-color: red; */
-	background-image: url("fire.gif");
+	background-image: url("../rsc/fire.gif");
 	background-size: cover;
 	background-position: center;
 }
