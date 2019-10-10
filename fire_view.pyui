@@ -1,0 +1,49 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 0}, {240, 240}}",
+        "class" : "WebView",
+        "attributes" : {
+          "scales_to_fit" : true,
+          "frame" : "{{20, 20}, {200, 200}}",
+          "flex" : "WH",
+          "class" : "WebView",
+          "name" : "fire_wv",
+          "uuid" : "142F87E3-9A76-4B48-8C05-C3C741C96FC1"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 0}, {240, 240}}",
+        "class" : "View",
+        "attributes" : {
+          "custom_class" : "TouchLayer",
+          "frame" : "{{70, 70}, {100, 100}}",
+          "flex" : "WH",
+          "class" : "View",
+          "name" : "touch_layer",
+          "uuid" : "CB9C4F3C-9F43-4893-BDB4-C8BAAB08B44C"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {240, 240}}",
+    "class" : "View",
+    "attributes" : {
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "custom_class" : "FireView",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
