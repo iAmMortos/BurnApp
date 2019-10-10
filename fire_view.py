@@ -3,6 +3,7 @@ import os
 import sound
 from touch_layer import TouchLayer
 
+
 class FireView (ui.View):
 	
 	def did_load(self):
